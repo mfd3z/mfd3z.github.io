@@ -9,11 +9,9 @@ entries:
         url: https://www.linkedin.com/in/mariofernandezgonzalez/
 
   - title: SEO
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+    entries:
+      - title: Content Seo
+        url: content-seo.html
 
   - title: My coding projects
     post_list:
